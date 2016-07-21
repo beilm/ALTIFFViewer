@@ -23,7 +23,7 @@
     
     [self.view setBackgroundColor:[UIColor whiteColor]];
     
-    self.splitter = [[NSTiffSplitter alloc] initWithData:fileData usingMapping:NO];
+    self.splitter = [[NSTiffSplitter alloc] initWithData:fileData];
     
     //-----------------------------------------
     //  MainScroll - scroll to slide
