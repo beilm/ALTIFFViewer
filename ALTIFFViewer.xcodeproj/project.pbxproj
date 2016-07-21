@@ -172,9 +172,8 @@
 				16FCBF9C1ACB137300AB38AA /* NSTiffSplitter.m */,
 				16FCBF9D1ACB137300AB38AA /* rotate.png */,
 			);
-			name = Classes;
-			path = /Users/albertolourenco/Desktop/ALTIFFViewer/Classes;
-			sourceTree = "<absolute>";
+			path = Classes;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
