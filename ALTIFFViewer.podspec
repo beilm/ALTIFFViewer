@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'ALTIFFViewer'
-  s.version  = '0.1'
+  s.version  = '0.2'
   s.license  = { :file => 'LICENSE' }
   s.summary  = 'A TIFF files viewer (with multi-pages).'
   s.homepage = 'https://github.com/beilm/ALTIFFViewer'
